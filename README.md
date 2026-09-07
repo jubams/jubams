@@ -1,119 +1,247 @@
 <div align="center">
 
-# Salman Kasimoğlu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0D9488&height=200&section=header&text=Salman%20Kasimoglu&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%20%7C%20%20APPLIED%20AI&descSize=15&descAlignY=60" width="100%" alt="Salman Kasimoğlu — Software Engineering and Applied AI" />
 
-### Software Engineer · Angular & NestJS · Applied AI
+# Hi, I'm Salman Kasimoğlu 👋
 
-**I turn complex information into useful software—from lecture recordings to AI study tools, and from raw data to predictive models.**
+### I build web applications that make AI useful.
 
-Istanbul, Türkiye · Open to software engineering and applied AI opportunities
+**Angular & NestJS developer · Applied ML & NLP · Software Engineering graduate**
 
-[Explore Mentara](https://mentara.online/) · [Browse my repositories](https://github.com/jubams?tab=repositories) · [Get in touch](mailto:salman.juba@icloud.com)
+Based in **Istanbul, Türkiye** · Open to **software engineering and applied AI opportunities**
+
+<a href="mailto:salman.juba@icloud.com"><img src="https://img.shields.io/badge/LET'S_TALK-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Salman" /></a>
+<a href="https://mentara.online/"><img src="https://img.shields.io/badge/EXPLORE_MENTARA-155E75?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Mentara" /></a>
+<a href="https://github.com/jubams?tab=repositories"><img src="https://img.shields.io/badge/MY_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
+
+<br />
+
+[About](#about) · [Skills](#skills) · [Projects](#projects) · [Experience](#experience) · [Education](#education) · [Contact](#contact)
 
 </div>
 
 ---
 
-## The intersection I work in
+<a id="about"></a>
+## 👨‍💻 A little about me
 
-I'm a Software Engineering graduate from **Üsküdar University** with experience building web applications and contributing to machine learning research. My strongest development stack is **TypeScript, Angular, NestJS, and PostgreSQL**. I also work with Python for NLP, feature engineering, and predictive modeling.
+I'm a **Software Engineering graduate from Üsküdar University** who enjoys taking an idea through the full development process: interface, API, database, and AI integration.
 
-I enjoy connecting the pieces: designing the interface, building the API, structuring the data, and integrating AI features into a product people can use.
+My strongest stack is **Angular, TypeScript, NestJS, and PostgreSQL**. Alongside web development, I work with **Python and machine learning**, with projects in Arabic NLP, time-series forecasting, and EEG classification research.
 
-| Product engineering | Applied machine learning | Research experience |
-| :--- | :--- | :--- |
-| Angular interfaces, NestJS APIs, relational databases | Arabic text classification, forecasting, retrieval-augmented generation | EEG classification and LLM-assisted feature engineering |
+- 🛠️ **I build:** responsive web applications, backend APIs, and AI-powered learning tools.
+- 🧠 **I explore:** NLP, retrieval-augmented generation, feature engineering, and predictive modeling.
+- 🔬 **I contribute:** research on EEG-based ADHD classification and LLM-assisted feature engineering.
+- 🌱 **I'm developing:** deeper ML foundations and an understanding of multimodal models.
+- 🤝 **I'm looking for:** a team where I can contribute to useful products and grow as an engineer.
 
-## Featured work
+<table>
+<tr>
+<td align="center" width="33%"><strong>4.0 / 4.0</strong><br /><sub>B.Sc. GPA · High Honor</sub></td>
+<td align="center" width="33%"><strong>1st Place</strong><br /><sub>University, faculty & department rank</sub></td>
+<td align="center" width="33%"><strong>3rd Place</strong><br /><sub>Student Congress research project</sub></td>
+</tr>
+</table>
 
-### 🧠 Mentara — From lecture material to active learning
+<a id="skills"></a>
+## 🛠️ Technical skills
 
-**An AI study platform that brings learning tools into one workflow.**
+### Languages
 
-Mentara turns lecture content into study resources and connects those resources to a lesson-specific assistant.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
 
-- **Capture and process:** lecture transcription, OCR, and automated content processing.
-- **Understand:** summaries, mind maps, and a RAG assistant grounded in lesson material.
-- **Practice and retain:** AI-generated flashcards, quizzes, and spaced repetition.
+### Frontend development
 
-**Built with:** Angular · NestJS · PostgreSQL · pgvector · n8n · Whisper · Chandra OCR · DeepSeek
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React_Basics-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Engineering focus:** connecting a web application, vector retrieval, and AI processing into a coherent study experience.
+**Angular is my primary frontend framework.** Responsive interfaces · Component-based development · API integration · Foundational React experience
 
-[Explore Mentara →](https://mentara.online/)
+### Backend & databases
 
-### 📰 Arabic News Classification — NLP with measurable results
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
 
-Built a text classification project covering **9 news categories** using **26,995+ Arabic headlines**. The workflow combines text preprocessing, TF-IDF representations, and machine learning classification.
+REST API development · Database design · Relational and document databases · ORM integration · Vector retrieval with **pgvector**
 
-**Project results:** 91.5% accuracy · 91.6% precision
+### Machine learning, NLP & AI integration
 
-**Built with:** Python · scikit-learn · NLTK · TF-IDF
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-155E75?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-0F172A?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-**Engineering focus:** preparing language data, representing text numerically, and evaluating classification performance.
-
-### 🌡️ Weather Temperature Forecasting — Modeling seasonality
-
-Compared **ARIMA, linear regression, and Fourier-enhanced regression** using **10+ years of hourly weather data—96,000+ observations**. Used a time index and Fourier features to represent temporal patterns and seasonality.
-
-**Best reported project results:** RMSE 3.33°C · R² 0.84
-
-**Engineering focus:** comparing modeling approaches and investigating how seasonal features affect forecasting performance.
-
-<sub>Metrics above describe individual project experiments; they are not claims of production performance.</sub>
-
-## Research: learning from EEG data
-
-**Research Assistant · Mirai Research Office, Üsküdar University**  
-April 2026–present
-
-Contributing to **EEG-based ADHD classification** using a pediatric dataset of **77 subjects**, including LLM-assisted feature engineering and experiments with SVM, Gaussian mixture models, random forests, and XGBoost.
-
-- Worked in a four-person research team.
-- Presented the project at Üsküdar University's Student Congress, where it received **3rd place**.
-- Contributing to a manuscript in preparation.
-
-This work has strengthened my interest in the connection between data quality, feature design, and model evaluation.
-
-## Software development & teamwork
-
-**Software Developer · Alrowad Company, Istanbul**  
-August–September 2024
-
-Contributed web features and backend endpoints, participated in code reviews, and worked on application performance and code quality.
-
-**CampuConnect · Student assistant app project**
-
-Collaborated in a **10-person team over three months** on a student application covering group formation, club discovery, and classroom availability. The team's Figma design work spanned **72+ pages and 600+ variations**.
-
-**University Club Management Website · Co-designer & Frontend Developer**
-
-Worked in a seven-person team on responsive interfaces and backend integration using HTML, CSS, and JavaScript.
-
-## My toolkit
-
-| Area | Technologies |
+| Focus | Methods & technologies |
 | :--- | :--- |
-| **Primary web stack** | TypeScript, JavaScript, Angular, NestJS, Node.js, Express, REST APIs |
-| **Interfaces** | HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Data & persistence** | PostgreSQL, pgvector, MongoDB, MySQL, TypeORM, Prisma |
-| **ML & NLP** | Python, NumPy, scikit-learn, NLTK, TF-IDF, XGBoost |
-| **AI integration** | RAG, Whisper, OCR, n8n |
-| **Development tools** | Git, GitHub, npm, Postman |
+| **Text & language** | Arabic text preprocessing, TF-IDF, text classification |
+| **Machine learning** | Linear regression, SVM, random forests, Gaussian mixture models, XGBoost |
+| **Forecasting** | ARIMA, Fourier seasonality features, regression-based forecasting |
+| **AI applications** | RAG, LLM integration, Whisper transcription, Chandra OCR, DeepSeek |
+| **Evaluation** | Accuracy, precision, recall, F1, MAE, MSE, RMSE, R² |
 
-## Background & direction
+### Tools & engineering foundations
 
-🎓 **B.Sc. Software Engineering — Üsküdar University, June 2026**  
-GPA **4.0/4.0** · High Honor · Ranked **1st in my university, faculty, and department**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=white)
 
-I'm deepening my understanding of machine learning foundations, NLP, and multimodal models while continuing to build practical software. I work in **English (advanced)** and **Turkish (intermediate)**.
+Angular CLI · Nest CLI · Version control · Problem solving · Data structures & algorithms · Code reviews · Collaborative development
 
-## Let's build something useful
+<a id="projects"></a>
+## 🚀 Selected projects
 
-I'm interested in **Angular/frontend, TypeScript full-stack, and applied AI software roles** where I can contribute to real products and grow with an engineering team.
+### ⭐ Mentara · AI study platform
 
-**Have a role that connects strong web development with useful AI features? I'd love to hear about it.**
+> Turning lecture content into a connected learning experience.
 
-[Email me](mailto:salman.juba@icloud.com) · [GitHub](https://github.com/jubams) · [Mentara](https://mentara.online/)
+An application that brings transcription, study materials, active recall, and a lesson-specific AI assistant into one workflow.
 
-<!-- Maintainer note: This draft uses previously supplied CV/project details. Current repository contents could not be verified during preparation. Add direct project repository links once their exact URLs are confirmed. Keep research status, availability, and experimental metrics current. -->
+| Capability | What it does |
+| :--- | :--- |
+| 🎙️ **Lecture processing** | Transcribes recordings and extracts text with OCR |
+| 📝 **Study resources** | Generates summaries and mind maps |
+| 🃏 **Active recall** | Creates flashcards and quizzes with spaced repetition |
+| 💬 **Lesson assistant** | Uses RAG to answer questions using lesson material |
+| ⚙️ **Automation** | Connects content processing steps through n8n workflows |
+
+**Stack:** `Angular` `NestJS` `PostgreSQL` `pgvector` `n8n` `Whisper` `Chandra OCR` `DeepSeek`
+
+**What this project demonstrates:** connecting frontend, backend, data storage, and AI services in a single product.
+
+**[Explore Mentara ↗](https://mentara.online/)**
+
+---
+
+### 📰 Arabic News Classification · Natural language processing
+
+Classified **26,995+ Arabic headlines across 9 categories** using text preprocessing, TF-IDF features, and machine learning.
+
+- **Results:** 91.5% accuracy and 91.6% precision in project experiments.
+- **Focus:** preparing Arabic text, representing it numerically, and evaluating classification results.
+- **Stack:** `Python` `scikit-learn` `NLTK` `TF-IDF`
+
+### 🧬 EEG-Based ADHD Detection · Research project
+
+Explored **LLM-assisted feature engineering** for ADHD classification using EEG data from **77 pediatric subjects**.
+
+- **Methods:** SVM, Gaussian mixture models, random forests, and XGBoost.
+- **Collaboration:** four-person research team.
+- **Recognition:** 3rd place at Üsküdar University's Student Congress.
+- **Status:** manuscript in preparation.
+- **Stack:** `Python` `scikit-learn` `XGBoost` `LLM-assisted features`
+
+### 🌡️ Weather Temperature Forecasting · Time-series modeling
+
+Compared **ARIMA, linear regression, and Fourier-enhanced regression** on **10+ years of hourly weather data**, covering **96,000+ observations**.
+
+- **Feature design:** time index and Fourier terms to represent seasonality.
+- **Best project results:** RMSE **3.33°C** and R² **0.84**.
+- **Focus:** understanding how model choice and seasonal features influence forecasting performance.
+- **Methods:** `ARIMA` `Linear Regression` `Fourier Features`
+
+<sub>Model scores refer to the respective project experiments.</sub>
+
+---
+
+### 🎓 CampuConnect · Student assistant app
+
+Collaborated in a **10-person team over three months** on an app concept helping students navigate university life.
+
+- **Features:** group formation, club discovery, and classroom availability.
+- **Design scope:** the team's work included **72+ pages and 600+ variations** in Figma.
+- **Focus:** translating student needs into organized application flows and interfaces.
+- **Tool:** `Figma`
+
+### 🏫 University Club Management Website · Web development
+
+Worked as **co-designer and frontend developer** in a **seven-person team**.
+
+- Built responsive interfaces for a university club management website.
+- Collaborated on design and backend integration.
+- **Stack:** `HTML5` `CSS3` `JavaScript`
+
+<div align="center">
+
+**[Browse my GitHub repositories →](https://github.com/jubams?tab=repositories)**
+
+</div>
+
+<a id="experience"></a>
+## 💼 Experience
+
+### Research Assistant · Mirai Research Office
+
+**Üsküdar University · April 2026–present**
+
+- Contribute to EEG-based ADHD classification research using a 77-subject pediatric dataset.
+- Explore LLM-assisted feature engineering and compare machine learning approaches.
+- Collaborate on research presentation and manuscript preparation.
+
+### Software Developer · Alrowad Company
+
+**Istanbul · August–September 2024**
+
+- Contributed web application features and backend endpoints.
+- Participated in code reviews and collaborative development.
+- Worked on application performance and code quality.
+
+<a id="education"></a>
+## 🎓 Education & recognition
+
+| | Details |
+| :--- | :--- |
+| **Degree** | B.Sc. in Software Engineering |
+| **University** | Üsküdar University |
+| **Graduation** | June 2026 |
+| **GPA** | **4.0 / 4.0** |
+| **Academic distinction** | **High Honor · 1st in university, faculty, and department** |
+| **Research recognition** | **3rd place** — Student Congress, EEG-based ADHD project |
+
+## 🌱 What I'm working toward
+
+- Strengthening the mathematical and programming foundations behind machine learning.
+- Building AI features that fit naturally into web applications.
+- Exploring NLP, multimodal LLMs, and image/video generation.
+- Growing through engineering teamwork, research, and hands-on implementation.
+
+**Working languages:** English — Advanced · Turkish — Intermediate
+
+<a id="contact"></a>
+## 📬 Let's connect
+
+I'm open to **Angular/frontend**, **TypeScript full-stack**, and **applied AI software** opportunities.
+
+If your team needs someone who enjoys building across interfaces, APIs, and AI integration, let's talk.
+
+| Contact | Link |
+| :--- | :--- |
+| **Email** | [salman.juba@icloud.com](mailto:salman.juba@icloud.com) |
+| **GitHub** | [github.com/jubams](https://github.com/jubams) |
+| **Featured project** | [mentara.online](https://mentara.online/) |
+| **Location** | Istanbul, Türkiye |
+
+<div align="center">
+
+**From an idea to an interface. From data to a useful feature.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0D9488&height=90&section=footer" width="100%" alt="Decorative teal wave" />
+
+</div>
+
+<!-- Maintenance: Add direct repository links when exact URLs are available. Project descriptions and achievements are based on supplied CV/project information, not a current code audit. Keep employment dates, manuscript status, and availability up to date. Banner and badges use external image services; all substantive information remains readable without them. -->
